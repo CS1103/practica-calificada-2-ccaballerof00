@@ -12,12 +12,10 @@ class Fight {
 private:
     Fighter* a;
     Fighter* b;
+public:
     int scorea;
     int scoreb;
-public:
-    Fight(Fighter* a,Fighter* b):a{nullptr},b{nullptr},scorea{0},scoreb{0}{};
-    int getScorea();
-    int getScoreb();
+    Fight(Fighter* a,Fighter* b):a{a},b{b},scorea{0},scoreb{0}{};
     string getWinner();
 };
 

@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/cristian/Desktop/PC_2/cmake-build-debug"/>
+				<Option working_dir="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/cristian/Desktop/PC_2/cmake-build-debug"/>
+				<Option working_dir="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="PC_2">
-				<Option output="/home/cristian/Desktop/PC_2/cmake-build-debug/PC_2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/cristian/Desktop/PC_2/cmake-build-debug"/>
+				<Option output="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/PC_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 PC_2"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 PC_2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="PC_2/fast">
-				<Option output="/home/cristian/Desktop/PC_2/cmake-build-debug/PC_2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/cristian/Desktop/PC_2/cmake-build-debug"/>
+				<Option output="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/PC_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,78 +67,78 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 PC_2/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 PC_2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/cristian/Desktop/PC_2/cmake-build-debug"/>
+				<Option working_dir="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/PC_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/cristian/Desktop/PC_2/Arena.cpp">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Arena.cpp">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Arena.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Arena.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Armor.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Armor.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Attack.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Attack.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/BruceLee.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/BruceLee.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/ChuckNorris.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/ChuckNorris.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Defense.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Defense.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Elude.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Elude.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Fight.cpp">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Fight.cpp">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Fight.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Fight.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Fighter.cpp">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Fighter.cpp">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Fighter.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Fighter.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Firearm.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Firearm.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/JasonStatham.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/JasonStatham.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Punch.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Punch.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Saber.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Saber.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/Shield.h">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/Shield.h">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/main.cpp">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/main.cpp">
 			<Option target="PC_2"/>
 		</Unit>
-		<Unit filename="/home/cristian/Desktop/PC_2/CMakeLists.txt">
+		<Unit filename="/home/cristian/Desktop/practica-calificada-2-ccaballerof00/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

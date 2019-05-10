@@ -29,5 +29,6 @@ CMakeFiles/PC_2.dir/main.cpp.o: ../Fighter.h
 CMakeFiles/PC_2.dir/main.cpp.o: ../Firearm.h
 CMakeFiles/PC_2.dir/main.cpp.o: ../Punch.h
 CMakeFiles/PC_2.dir/main.cpp.o: ../Saber.h
+CMakeFiles/PC_2.dir/main.cpp.o: ../Shield.h
 CMakeFiles/PC_2.dir/main.cpp.o: ../main.cpp
 

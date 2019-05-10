@@ -43,10 +43,10 @@ RM = /home/cristian/Desktop/CLion-2019.1/clion-2019.1/bin/cmake/linux/bin/cmake 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/cristian/Desktop/PC_2
+CMAKE_SOURCE_DIR = /home/cristian/Desktop/practica-calificada-2-ccaballerof00
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/cristian/Desktop/PC_2/cmake-build-debug
+CMAKE_BINARY_DIR = /home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/PC_2.dir/depend.make
@@ -59,55 +59,55 @@ include CMakeFiles/PC_2.dir/flags.make
 
 CMakeFiles/PC_2.dir/main.cpp.o: CMakeFiles/PC_2.dir/flags.make
 CMakeFiles/PC_2.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cristian/Desktop/PC_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PC_2.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/PC_2.dir/main.cpp.o -c /home/cristian/Desktop/PC_2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PC_2.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/PC_2.dir/main.cpp.o -c /home/cristian/Desktop/practica-calificada-2-ccaballerof00/main.cpp
 
 CMakeFiles/PC_2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PC_2.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cristian/Desktop/PC_2/main.cpp > CMakeFiles/PC_2.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cristian/Desktop/practica-calificada-2-ccaballerof00/main.cpp > CMakeFiles/PC_2.dir/main.cpp.i
 
 CMakeFiles/PC_2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PC_2.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cristian/Desktop/PC_2/main.cpp -o CMakeFiles/PC_2.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cristian/Desktop/practica-calificada-2-ccaballerof00/main.cpp -o CMakeFiles/PC_2.dir/main.cpp.s
 
 CMakeFiles/PC_2.dir/Fighter.cpp.o: CMakeFiles/PC_2.dir/flags.make
 CMakeFiles/PC_2.dir/Fighter.cpp.o: ../Fighter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cristian/Desktop/PC_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/PC_2.dir/Fighter.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/PC_2.dir/Fighter.cpp.o -c /home/cristian/Desktop/PC_2/Fighter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/PC_2.dir/Fighter.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/PC_2.dir/Fighter.cpp.o -c /home/cristian/Desktop/practica-calificada-2-ccaballerof00/Fighter.cpp
 
 CMakeFiles/PC_2.dir/Fighter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PC_2.dir/Fighter.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cristian/Desktop/PC_2/Fighter.cpp > CMakeFiles/PC_2.dir/Fighter.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cristian/Desktop/practica-calificada-2-ccaballerof00/Fighter.cpp > CMakeFiles/PC_2.dir/Fighter.cpp.i
 
 CMakeFiles/PC_2.dir/Fighter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PC_2.dir/Fighter.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cristian/Desktop/PC_2/Fighter.cpp -o CMakeFiles/PC_2.dir/Fighter.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cristian/Desktop/practica-calificada-2-ccaballerof00/Fighter.cpp -o CMakeFiles/PC_2.dir/Fighter.cpp.s
 
 CMakeFiles/PC_2.dir/Fight.cpp.o: CMakeFiles/PC_2.dir/flags.make
 CMakeFiles/PC_2.dir/Fight.cpp.o: ../Fight.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cristian/Desktop/PC_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/PC_2.dir/Fight.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/PC_2.dir/Fight.cpp.o -c /home/cristian/Desktop/PC_2/Fight.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/PC_2.dir/Fight.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/PC_2.dir/Fight.cpp.o -c /home/cristian/Desktop/practica-calificada-2-ccaballerof00/Fight.cpp
 
 CMakeFiles/PC_2.dir/Fight.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PC_2.dir/Fight.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cristian/Desktop/PC_2/Fight.cpp > CMakeFiles/PC_2.dir/Fight.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cristian/Desktop/practica-calificada-2-ccaballerof00/Fight.cpp > CMakeFiles/PC_2.dir/Fight.cpp.i
 
 CMakeFiles/PC_2.dir/Fight.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PC_2.dir/Fight.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cristian/Desktop/PC_2/Fight.cpp -o CMakeFiles/PC_2.dir/Fight.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cristian/Desktop/practica-calificada-2-ccaballerof00/Fight.cpp -o CMakeFiles/PC_2.dir/Fight.cpp.s
 
 CMakeFiles/PC_2.dir/Arena.cpp.o: CMakeFiles/PC_2.dir/flags.make
 CMakeFiles/PC_2.dir/Arena.cpp.o: ../Arena.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cristian/Desktop/PC_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/PC_2.dir/Arena.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/PC_2.dir/Arena.cpp.o -c /home/cristian/Desktop/PC_2/Arena.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/PC_2.dir/Arena.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/PC_2.dir/Arena.cpp.o -c /home/cristian/Desktop/practica-calificada-2-ccaballerof00/Arena.cpp
 
 CMakeFiles/PC_2.dir/Arena.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PC_2.dir/Arena.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cristian/Desktop/PC_2/Arena.cpp > CMakeFiles/PC_2.dir/Arena.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cristian/Desktop/practica-calificada-2-ccaballerof00/Arena.cpp > CMakeFiles/PC_2.dir/Arena.cpp.i
 
 CMakeFiles/PC_2.dir/Arena.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PC_2.dir/Arena.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cristian/Desktop/PC_2/Arena.cpp -o CMakeFiles/PC_2.dir/Arena.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cristian/Desktop/practica-calificada-2-ccaballerof00/Arena.cpp -o CMakeFiles/PC_2.dir/Arena.cpp.s
 
 # Object files for target PC_2
 PC_2_OBJECTS = \
@@ -125,7 +125,7 @@ PC_2: CMakeFiles/PC_2.dir/Fight.cpp.o
 PC_2: CMakeFiles/PC_2.dir/Arena.cpp.o
 PC_2: CMakeFiles/PC_2.dir/build.make
 PC_2: CMakeFiles/PC_2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cristian/Desktop/PC_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable PC_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable PC_2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/PC_2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -138,6 +138,6 @@ CMakeFiles/PC_2.dir/clean:
 .PHONY : CMakeFiles/PC_2.dir/clean
 
 CMakeFiles/PC_2.dir/depend:
-	cd /home/cristian/Desktop/PC_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cristian/Desktop/PC_2 /home/cristian/Desktop/PC_2 /home/cristian/Desktop/PC_2/cmake-build-debug /home/cristian/Desktop/PC_2/cmake-build-debug /home/cristian/Desktop/PC_2/cmake-build-debug/CMakeFiles/PC_2.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cristian/Desktop/practica-calificada-2-ccaballerof00 /home/cristian/Desktop/practica-calificada-2-ccaballerof00 /home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug /home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug /home/cristian/Desktop/practica-calificada-2-ccaballerof00/cmake-build-debug/CMakeFiles/PC_2.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/PC_2.dir/depend
 

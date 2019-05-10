@@ -5,20 +5,10 @@
 #include "Fight.h"
 #include "Fighter.h"
 
-int Fight::getScorea()
-{
-    scorea=a->defense()-b->attack();
-    return scorea;
-}
-
-int Fight::getScoreb()
-{
-    scoreb=b->defense()-a->attack();
-    return scoreb;
-}
-
 string Fight::getWinner()
 {
+        scorea=a->defense()-b->attack();
+        scoreb=b->defense()-a->attack();
     if(scorea>scoreb)
     {
         return a->nombre;
@@ -27,4 +17,5 @@ string Fight::getWinner()
     {
         return b->nombre;
     }
+    else return "";
 }
